@@ -670,6 +670,7 @@ public class Utils {
                 mDeviceType = DEVICE_TABLET;
             }
         }
+        mDeviceType = DEVICE_TABLET;
         return mDeviceType;
     }
 
